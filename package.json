@@ -1,0 +1,15 @@
+{
+  "name": "Essentials",
+  "version": "1.0.0",
+  "description": "I Can't Help You!",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg": "0.0.4",
+    "google-translate-api": "^2.3.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.2"
+  }
+}
